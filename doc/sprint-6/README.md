@@ -6,10 +6,14 @@ Nom du scrum master du sprint :
 
 -> L'utilisateur peut avoir accès à la page de connexion depuis la page d'accueil de l'app
 
+-> L'utilisateur peut se déplacer dans les différentes fonctions du site
+
 
 ## Ce que nous allons faire durant le prochain sprint
 
 -> La connexion avec l'app
+
+-> L'authentification ,la création de compte avec le site et  
 
 ## PDCA 
 ### Qu'avons nous testé durant ce sprint ? 
